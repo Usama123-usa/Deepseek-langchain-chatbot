@@ -6,6 +6,7 @@ app = Flask(__name__)
 
 # DeepSeek API details
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/chat/completions"
+#Enter your API Key Here
 DEEPSEEK_API_KEY = "API key here"
 
 # LangChain integration (simplified for this example)
